@@ -1,0 +1,82 @@
+{
+  "spacing-none": {
+    "$type": "number",
+    "$value": "{scale.0}"
+  },
+  "spacing-3xs": {
+    "$type": "number",
+    "$value": "{scale.50}"
+  },
+  "spacing-2xs": {
+    "$type": "number",
+    "$value": "{scale.100}"
+  },
+  "spacing-xs": {
+    "$type": "number",
+    "$value": "{scale.150}"
+  },
+  "spacing-sm": {
+    "$type": "number",
+    "$value": "{scale.200}"
+  },
+  "spacing-md": {
+    "$type": "number",
+    "$value": "{scale.300}"
+  },
+  "spacing-lg": {
+    "$type": "number",
+    "$value": "{scale.400}"
+  },
+  "spacing-xl": {
+    "$type": "number",
+    "$value": "{scale.500}"
+  },
+  "spacing-2xl": {
+    "$type": "number",
+    "$value": "{scale.600}"
+  },
+  "spacing-3xl": {
+    "$type": "number",
+    "$value": "{scale.700}"
+  },
+  "spacing-4xl": {
+    "$type": "number",
+    "$value": "{scale.800}"
+  },
+  "spacing-5xl": {
+    "$type": "number",
+    "$value": "{scale.900}"
+  },
+  "spacing-6xl": {
+    "$type": "number",
+    "$value": "{scale.1000}"
+  },
+  "spacing-7xl": {
+    "$type": "number",
+    "$value": "{scale.1100}"
+  },
+  "spacing-8xl": {
+    "$type": "number",
+    "$value": "{scale.1300}"
+  },
+  "spacing-9xl": {
+    "$type": "number",
+    "$value": "{scale.1400}"
+  },
+  "spacing-10xl": {
+    "$type": "number",
+    "$value": "{scale.1500}"
+  },
+  "spacing-11xl": {
+    "$type": "number",
+    "$value": "{scale.1600}"
+  },
+  "spacing-12xl": {
+    "$type": "number",
+    "$value": "{scale.1700}"
+  },
+  "spacing-13xl": {
+    "$type": "number",
+    "$value": "{scale.1800}"
+  }
+}

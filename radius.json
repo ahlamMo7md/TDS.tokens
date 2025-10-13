@@ -1,0 +1,46 @@
+{
+  "radius-none": {
+    "$type": "number",
+    "$value": "{radius.0}"
+  },
+  "radius-xs": {
+    "$type": "number",
+    "$value": "{radius.100}"
+  },
+  "radius-sm": {
+    "$type": "number",
+    "$value": "{radius.200}"
+  },
+  "radius-md": {
+    "$type": "number",
+    "$value": "{radius.300}"
+  },
+  "radius-lg": {
+    "$type": "number",
+    "$value": "{radius.400}"
+  },
+  "radius-xl": {
+    "$type": "number",
+    "$value": "{radius.450}"
+  },
+  "radius-2xl": {
+    "$type": "number",
+    "$value": "{radius.500}"
+  },
+  "radius-3xl": {
+    "$type": "number",
+    "$value": "{radius.600}"
+  },
+  "radius-4xl": {
+    "$type": "number",
+    "$value": "{radius.700}"
+  },
+  "radius-5xl": {
+    "$type": "number",
+    "$value": "{radius.800}"
+  },
+  "radius-full": {
+    "$type": "number",
+    "$value": "{radius.1000}"
+  }
+}
