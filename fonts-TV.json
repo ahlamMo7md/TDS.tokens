@@ -1,0 +1,208 @@
+{
+  "font": {
+    "display": {
+      "lg": {
+        "text-size": {
+          "$type": "number",
+          "$value": 57
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 64
+        },
+        "text-size 2": {
+          "$type": "number",
+          "$value": 57
+        }
+      },
+      "md": {
+        "text-size": {
+          "$type": "number",
+          "$value": 45
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 52
+        }
+      },
+      "sm": {
+        "text-size": {
+          "$type": "number",
+          "$value": 36
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 44
+        }
+      }
+    },
+    "headline": {
+      "lg": {
+        "text-size": {
+          "$type": "number",
+          "$value": 32
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 40
+        }
+      },
+      "md": {
+        "text-size": {
+          "$type": "number",
+          "$value": 28
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 36
+        }
+      },
+      "sm": {
+        "text-size": {
+          "$type": "number",
+          "$value": 24
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 32
+        }
+      }
+    },
+    "title": {
+      "lg": {
+        "text-size": {
+          "$type": "number",
+          "$value": 18
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 26
+        }
+      },
+      "md": {
+        "text-size": {
+          "$type": "number",
+          "$value": 16
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
+        }
+      },
+      "sm": {
+        "text-size": {
+          "$type": "number",
+          "$value": 14
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
+        }
+      }
+    },
+    "label": {
+      "lg": {
+        "text-size": {
+          "$type": "number",
+          "$value": 16
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
+        }
+      },
+      "md": {
+        "text-size": {
+          "$type": "number",
+          "$value": 14
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
+        }
+      },
+      "sm": {
+        "text-size": {
+          "$type": "number",
+          "$value": 13
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 18
+        }
+      },
+      "xs": {
+        "text-size": {
+          "$type": "number",
+          "$value": 12
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
+        }
+      },
+      "xxs": {
+        "text-size": {
+          "$type": "number",
+          "$value": 11
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
+        }
+      }
+    },
+    "body": {
+      "lg": {
+        "text-size": {
+          "$type": "number",
+          "$value": 16
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
+        }
+      },
+      "md": {
+        "text-size": {
+          "$type": "number",
+          "$value": 14
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
+        }
+      },
+      "sm": {
+        "text-size": {
+          "$type": "number",
+          "$value": 12
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
+        }
+      },
+      "xs": {
+        "text-size": {
+          "$type": "number",
+          "$value": 12
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
+        }
+      }
+    },
+    "caption": {
+      "text-size": {
+        "$type": "number",
+        "$value": 12
+      },
+      "line-height": {
+        "$type": "number",
+        "$value": 12
+      }
+    }
+  }
+}
