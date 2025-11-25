@@ -140,7 +140,7 @@
     },
     "bg-surface-raised": {
       "$type": "color",
-      "$value": "{color.off black.200}"
+      "$value": "{color.off black.300}"
     },
     "bg-surface-raised_subtle": {
       "$type": "color",
@@ -189,6 +189,10 @@
     "bg-error-solid": {
       "$type": "color",
       "$value": "{color.red.400}"
+    },
+    "bg-surface-raised-90%": {
+      "$type": "color",
+      "$value": "{color.off black.200}"
     },
     "accent": {
       "bg-green": {
