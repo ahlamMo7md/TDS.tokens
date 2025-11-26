@@ -9,10 +9,6 @@
         "line-height": {
           "$type": "number",
           "$value": 64
-        },
-        "text-size 2": {
-          "$type": "number",
-          "$value": 57
         }
       },
       "md": {
